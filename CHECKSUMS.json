@@ -1,0 +1,22 @@
+{
+  ".gitignore": "436c26332a8688bfb03a4dbf00a94dcf4184249c3f1de0af3e1d150f386c0a93",
+  "README.md": "881e8b0233673bf0626a15e1677d20daa5114ba6295b448a8a5f2f0f5d3b23b3",
+  "code/coefficient_dual.py": "ec4c7fdbf240b31a187d558b11162c7b7553f93a97168a803b3950be103524ef",
+  "code/coefficient_newton.py": "29d967ad08791ae2b8a2720a7fa62f0c42500f9bac498aef4a7373034f56a81e",
+  "code/common_coefficient.py": "df340eedf819b55c7ee415ca95f7fbcea68022287889cee30bbf2ebfeb1b3a60",
+  "code/cutpoint_memo.py": "ea2bb9e621a734544d045bc26c5b48fbe8e91e98a2c91c9bcef999c51a48481c",
+  "code/engine.py": "742658b7538009cb545a2420759c49fa87c10de08db6921af9b1aecb7daa4725",
+  "code/negative_reuse.py": "5666773b49d9c2297706a759f6aef2c29c2817d4bf264921a10632816829df5b",
+  "code/run.py": "be33e4d1244fc9097bcd21c136f78ecbfd150f5d390aecdf62788fabf7a0fb58",
+  "code/strong_baseline.py": "6e34b44210923928ff52cb90cf322bd1caca9fdcf13cac34d1a3c62c73dd8453",
+  "code/structure_newton_margin.py": "063d35e69c3e060378918f29661c69425568e7b338a72a2603e32c86e1256c6e",
+  "code/structure_reuse.py": "7099e3096d9298b7a9624ac5b6cf8cd7863292932cab980454576478e64af301",
+  "code/within_box.py": "ee0e19bef850614d6ae0e892ecaab8604c93889cc65db6e22f3645e0ddf78ede",
+  "data/INDEX.json": "c84d941a032a6feaddb5fc8119edc5e8f290ad6369efe7b52e184dc9eee58e2d",
+  "data/PAPER_PAIRED_SUMMARIES.csv": "cdd36dba8ec7c7f560da2181f73de5fb6eaeda68850e762da87b7c473eaba3c8",
+  "data/STAGE_INVENTORY.json": "e3560ff9cc02a8463addbf993529455bdaddcbdcfbd70c666c4cd0ad59177d98",
+  "data/inputs.zip": "dba9cfd789ae20080bfc941c31d86fda4a964fe45ebf95ea28ab4422b55ab5de",
+  "data/recorded_results.zip": "273c35dd76f956cbb02d1ae54f61db7c99f2fb02df299da3cd64973bd03d1d89",
+  "reproduce.py": "c4a2e090dc346e4738ab0e2c4a2f3e89d9fd5c4b29cf2b6864e17992d511e51d",
+  "requirements.txt": "22f1eaafd6679437c36be8afe2a834107cd1aea06629049006d8c538121525fe"
+}

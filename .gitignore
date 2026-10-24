@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+generated_runs/
+# Keep large generated artifacts out of the Git history.
+points/
+proofs/
+*.log

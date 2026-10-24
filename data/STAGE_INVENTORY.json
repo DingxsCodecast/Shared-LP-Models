@@ -1,0 +1,329 @@
+[
+  {
+    "stage": "main",
+    "records": 1440,
+    "inputs": 120,
+    "methods": [
+      "D24",
+      "DL",
+      "N",
+      "NP"
+    ],
+    "successes": 1440,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "strong",
+    "records": 648,
+    "inputs": 24,
+    "methods": [
+      "N",
+      "N_norm",
+      "N_primal_norm",
+      "N_primal_saved_norm",
+      "N_saved_basis",
+      "N_saved_norm",
+      "Q",
+      "QD",
+      "Q_primal"
+    ],
+    "successes": 648,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "strong_box",
+    "records": 540,
+    "inputs": 20,
+    "methods": [
+      "N",
+      "N_norm",
+      "N_primal_norm",
+      "N_primal_saved_norm",
+      "N_saved_basis",
+      "N_saved_norm",
+      "Q",
+      "QD",
+      "Q_primal"
+    ],
+    "successes": 540,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "reviewer_main",
+    "records": 288,
+    "inputs": 24,
+    "methods": [
+      "NC",
+      "N_primal_saved_norm",
+      "QD",
+      "Q_primal"
+    ],
+    "successes": 288,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "reviewer_box",
+    "records": 240,
+    "inputs": 20,
+    "methods": [
+      "NC",
+      "N_primal_saved_norm",
+      "QD",
+      "Q_primal"
+    ],
+    "successes": 240,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "negative_main",
+    "records": 288,
+    "inputs": 24,
+    "methods": [
+      "GD",
+      "NPSN",
+      "PC",
+      "RN"
+    ],
+    "successes": 288,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "negative_box",
+    "records": 240,
+    "inputs": 20,
+    "methods": [
+      "GD",
+      "NPSN",
+      "PC",
+      "RN"
+    ],
+    "successes": 240,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "negative_related",
+    "records": 180,
+    "inputs": 15,
+    "methods": [
+      "GD",
+      "NPSN",
+      "PC",
+      "RN"
+    ],
+    "successes": 180,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "negative_stress",
+    "records": 144,
+    "inputs": 12,
+    "methods": [
+      "GD",
+      "NPSN",
+      "PC",
+      "RN"
+    ],
+    "successes": 144,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "memo20261005_confirm_main",
+    "records": 96,
+    "inputs": 8,
+    "methods": [
+      "NPSN",
+      "QD",
+      "RD",
+      "RN"
+    ],
+    "successes": 96,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "memo20261005_confirm_box",
+    "records": 96,
+    "inputs": 8,
+    "methods": [
+      "NPSN",
+      "QD",
+      "RD",
+      "RN"
+    ],
+    "successes": 96,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "memo20261005_confirm_related",
+    "records": 72,
+    "inputs": 6,
+    "methods": [
+      "NPSN",
+      "QD",
+      "RD",
+      "RN"
+    ],
+    "successes": 72,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "size",
+    "records": 108,
+    "inputs": 9,
+    "methods": [
+      "D24",
+      "DL",
+      "N",
+      "NP"
+    ],
+    "successes": 39,
+    "failures_or_timeouts": 69
+  },
+  {
+    "stage": "strong_size",
+    "records": 84,
+    "inputs": 4,
+    "methods": [
+      "N_norm",
+      "N_primal_norm",
+      "N_primal_saved_norm",
+      "N_saved_norm",
+      "Q",
+      "QD",
+      "Q_primal"
+    ],
+    "successes": 43,
+    "failures_or_timeouts": 41
+  },
+  {
+    "stage": "nearzero",
+    "records": 144,
+    "inputs": 12,
+    "methods": [
+      "D24",
+      "DL",
+      "N",
+      "NP"
+    ],
+    "successes": 120,
+    "failures_or_timeouts": 24
+  },
+  {
+    "stage": "rays",
+    "records": 180,
+    "inputs": 30,
+    "methods": [
+      "N",
+      "NP"
+    ],
+    "successes": 180,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "correlation",
+    "records": 90,
+    "inputs": 15,
+    "methods": [
+      "N",
+      "NP"
+    ],
+    "successes": 90,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "basis",
+    "records": 72,
+    "inputs": 6,
+    "methods": [
+      "N",
+      "NP",
+      "NP_same_ray",
+      "N_without_basis"
+    ],
+    "successes": 72,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "common_basis",
+    "records": 54,
+    "inputs": 6,
+    "methods": [
+      "N",
+      "Q",
+      "Q_without_basis"
+    ],
+    "successes": 54,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "reuse_main",
+    "records": 648,
+    "inputs": 24,
+    "methods": [
+      "GD",
+      "GR",
+      "NPSN",
+      "PB",
+      "PC",
+      "QD",
+      "QP",
+      "SG",
+      "SP"
+    ],
+    "successes": 648,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "reuse_box",
+    "records": 540,
+    "inputs": 20,
+    "methods": [
+      "GD",
+      "GR",
+      "NPSN",
+      "PB",
+      "PC",
+      "QD",
+      "QP",
+      "SG",
+      "SP"
+    ],
+    "successes": 540,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "reuse_related",
+    "records": 405,
+    "inputs": 15,
+    "methods": [
+      "GD",
+      "GR",
+      "NPSN",
+      "PB",
+      "PC",
+      "QD",
+      "QP",
+      "SG",
+      "SP"
+    ],
+    "successes": 405,
+    "failures_or_timeouts": 0
+  },
+  {
+    "stage": "reuse_stress",
+    "records": 324,
+    "inputs": 12,
+    "methods": [
+      "GD",
+      "GR",
+      "NPSN",
+      "PB",
+      "PC",
+      "QD",
+      "QP",
+      "SG",
+      "SP"
+    ],
+    "successes": 315,
+    "failures_or_timeouts": 9
+  }
+]
